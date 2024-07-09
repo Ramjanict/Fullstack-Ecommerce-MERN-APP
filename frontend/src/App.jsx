@@ -31,7 +31,9 @@ const App = () => {
       credentials: "include",
     });
     const userData = await dataResponse.json();
-    setCartProductCart(userData.data.count);
+    if (userData.success) {
+      setCartProductCart(userData.data.count);
+    }
   };
   useEffect(() => {
     fetchUserDetails();
