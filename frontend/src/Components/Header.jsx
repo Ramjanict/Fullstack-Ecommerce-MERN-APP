@@ -44,7 +44,7 @@ const Header = () => {
     }
   };
   return (
-    <header className="min-h-[calc(100vh-120px)] bg-white h-16 shadow-md  w-full z-40 ">
+    <header className="bg-white h-16 shadow-md fixed w-full z-40 ">
       <div className="  container mx-auto h-full flex items-center px-4 justify-between">
         <div className="h-full ">
           <Link to="/">
