@@ -24,7 +24,7 @@ const App = () => {
     }
   };
 
-  //cart count
+  //user cart count
   const fetchAddToCart = async (req, res) => {
     const dataResponse = await fetch(ApiSummary.countAddToCart.url, {
       method: ApiSummary.countAddToCart.method,
