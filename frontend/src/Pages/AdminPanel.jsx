@@ -13,7 +13,7 @@ const AdminPanel = () => {
     }
   }, [user]);
   return (
-    <div className=" md:flex hidden">
+    <div className="min-h-[calc(100vh-120px)] md:flex hidden">
       <aside className="bg-white  w-full min-h-full max-w-60 customShadow">
         <div className=" h-32 flex flex-col justify-center items-center">
           <div className="text-5xl cursor-pointer relative flex justify-center">
@@ -41,7 +41,7 @@ const AdminPanel = () => {
           </nav>
         </div>
       </aside>
-      <main>
+      <main className="w-full h-full p-2">
         <Outlet />
       </main>
     </div>
