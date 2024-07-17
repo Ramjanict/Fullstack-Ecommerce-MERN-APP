@@ -17,7 +17,7 @@ password: 12345
 ![]()
 
 ## Project Featurs
-### The website integrates React, Node.js,Express.js, MongoDB, Redux Toolkit, Cloudinary and Stripe
-### Admin panel integration
-### Payment Method integration
-### User authentication and smooth shopping experiences.
+#### The website integrates React, Node.js,Express.js, MongoDB, Redux Toolkit, Cloudinary and Stripe
+#### Admin panel integration
+#### Payment Method integration
+#### User authentication and smooth shopping experiences.
