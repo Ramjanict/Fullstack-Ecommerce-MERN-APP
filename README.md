@@ -5,7 +5,7 @@ A fully functional Fullstack E-commerce website
 #### Login as admin for details
 Email: md@gmail.com <br>
 password: 12345
-#### [Live Preview](https://fullstack-ecommerce-app-2.vercel.app/)
+#### [Live Preview](https://fullstack-ecommerce-mern-app-usvm.vercel.app/)
 
 
 
