@@ -37,7 +37,7 @@ Password: 12345
 **[Live Preview](https://fullstack-ecommerce-mern-app-usvm.vercel.app)**
 
 ## **Contributing**
-If you'd like to contribute to gym class scheduling and membership management system, here are some guidelines:
+If you'd like to contribute to a fully functional electronic e-commerce website using the MERN stack, here are some guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
